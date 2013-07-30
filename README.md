@@ -111,6 +111,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Angularjs Dependency Injection](http://diegobarahona.com/javascript/angularjs/2013/06/13/angularjs-dependency-injection/)
 
 ## Directives
+* [Building custom directives in AngularJS] (http://www.ng-newsletter.com/posts/directives.html)
 * [AngularJS directives and the computer science of JavaScript] (http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 * [AngularJS Directives - Domain-Specific Extensions to HTML] (http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html)
 * [AngularJS Directives Tutorial] (http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
@@ -152,6 +153,7 @@ A bunch of links to blog posts, articles, videos, etc for learning AngularJS. Th
 * [Using Promises in AngularJS Views] (http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/)
 
 ## Forms
+* [Form Validation with AngularJS] (http://www.ng-newsletter.com/posts/validations.html)
 * [Form Validation the AngularJS Way] (http://blog.brunoscopelliti.com/form-validation-the-angularjs-way)
 * [AngularJS Directive to test the strength of a password] (http://blog.brunoscopelliti.com/angularjs-directive-to-test-the-strength-of-a-password)
 * [AngularJS Directive to check that passwords match] (http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
